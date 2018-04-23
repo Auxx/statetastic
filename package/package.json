@@ -1,6 +1,6 @@
 {
   "name": "statetastic",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Finite state machine implementation in TypeScript",
   "author": "Aleksandr 'Aux' Ivanov",
   "main": "./umd-es5/index.js",
